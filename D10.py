@@ -1,4 +1,4 @@
-#Taking user input in python
+#Taking user input in python 
 '''In python ,we can take user input using the input() function.this input() function 
     reads a line from the input and returns it as a string.
     so we pass it to the variable name to store the user input.'''
