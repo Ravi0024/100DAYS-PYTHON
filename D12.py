@@ -1,5 +1,5 @@
 # STRING SLICING AND OPERATIONS ON STRING
-'''we can find the length of the string using len() function'''
+'''we can find the length of the string using len() function''' 
 
 name="Ravi teja"
 print(len(name)) # it will print the length of the string
