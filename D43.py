@@ -2,7 +2,7 @@
     particular version of Python, plus a number of additional packages. It allows you to manage dependencies for different projects 
     separately, avoiding conflicts between them.    
 """
-"""
+""" 
 to create a virtual environment, you can use the venv module that comes with Python 3.3 and later.
 example of creating a virtual environment using the venv module and activating it :
 
